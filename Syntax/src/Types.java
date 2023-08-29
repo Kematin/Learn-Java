@@ -26,6 +26,19 @@ public class Types {
         long ten_billion = 1_000_000_000L; // 64 bit
 
         // char
-         
+        char s = 's';
+        char tab = '\t';
+        char new_line = '\n';
+
+        // float and double
+        float floatWithSuffix = 36.6f;
+        double simple = 124.623;
+        double infinity = 1.0/0.0;
+        double nan = 0.0/0.0;
+        System.out.print(infinity);
+        System.out.print(nan);
+
+        // Math
+        double sin = Math.sin(Math.PI);
     }
 }
