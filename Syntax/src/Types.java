@@ -19,6 +19,13 @@ public class Types {
         value |= positive;
         System.out.print(value); // value | positive = true
 
-        // ! Reference types
+        // integer types
+        byte b = 127; // 8 bit
+        short f = 100; // 16 bit
+        int a = 5; // 32 bit
+        long ten_billion = 1_000_000_000L; // 64 bit
+
+        // char
+         
     }
 }
