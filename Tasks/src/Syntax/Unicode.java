@@ -1,3 +1,5 @@
+package Syntax;
+
 public class Unicode {
     public static void main(String[] args) {
         int num = 32;

@@ -1,3 +1,5 @@
+package Syntax;
+
 public class IsAnswer {
     public static void main(String[] args) {
         boolean answer = doubleExpression(0.1, 0.2, 0.3);

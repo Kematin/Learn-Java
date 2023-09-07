@@ -1,3 +1,5 @@
+package Syntax;
+
 public class Years {
     public static void main(String[] args) {
         int result = leapYearCount(100);

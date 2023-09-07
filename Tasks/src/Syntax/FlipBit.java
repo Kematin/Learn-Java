@@ -1,3 +1,5 @@
+package Syntax;
+
 public class FlipBit {
     public static void main(String[] args) {
         int value = 0;
